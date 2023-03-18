@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+![](https://github.com/Alesia-Bahdanava/Alesia-Bahdanava/blob/main/DALL%C2%B7E%20700.png)
+
+
 <!--
 **Alesia-Bahdanava/Alesia-Bahdanava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
