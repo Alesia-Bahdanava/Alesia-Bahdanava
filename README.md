@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-
-![](https://github.com/Alesia-Bahdanava/Alesia-Bahdanava/blob/main/DALL%C2%B7E%20700.png)
+  <div align="center">
+  
+  ![](https://github.com/Alesia-Bahdanava/Alesia-Bahdanava/blob/main/DALL%C2%B7E%20700.png)
+     </div>
 
 
 <!--
