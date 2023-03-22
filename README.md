@@ -24,8 +24,6 @@ and I am<br>
   
   <h2>If you need me, you can find me here</strong><br>
     
-
-  
 <img src= "https://www.animatedimages.org/data/media/1096/animated-click-here-sign-and-button-image-0014.gif" width="80"/> <a href="https://www.linkedin.com/in/alesia-bahdanava/" target="_blank">
   <img src="https://1000logos.net/wp-content/uploads/2023/01/LinkedIn-logo.png" alt="The Unlimited" width="180"/>
 </a> 	<img src= "https://www.animatedimages.org/data/media/1096/animated-click-here-sign-and-button-image-0040.gif" width="80"/>
